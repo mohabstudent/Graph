@@ -1,7 +1,7 @@
 /*
-Name: codepro2
+Name: _____
 PROB: barn1
-LANG: C++
+LANG: _____
 */
 #include<bits/stdc++.h>
 #define en "\n"
